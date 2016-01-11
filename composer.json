@@ -1,0 +1,16 @@
+{
+    "name": "countryfriedcoders/infusionwholesaler",
+    "description": "Provides a wholesale portal for Infusionsoft using WordPress",
+    "type": "plugin",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Ben Redden",
+            "email": "benjamminredden@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "infusionsoft/php-sdk": "^1.2"
+    }
+}
